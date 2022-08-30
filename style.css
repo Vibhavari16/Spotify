@@ -1,0 +1,45 @@
+.left-div{
+    height: 100vh;
+}
+
+/* .btnname{
+    width: 8rem;
+    height: 3rem;
+} */
+
+.btnaccount{
+    width: 8rem;
+    height: 2rem;
+}
+
+.btnupgrade{
+    width: 5rem;
+    height: 2rem;
+}
+
+.btnplay{
+    width: 5rem;
+    height: 2rem;
+}
+
+.btnsave{
+    width: 5rem;
+    height: 2rem;
+}
+
+.card{
+    width: 12rem;
+
+}
+.songs{
+    width: 100%;
+}
+
+.imgcard{
+    width: 11rem;
+    height: 11rem;
+}
+
+.main-div{
+    background-color: #e3dede;
+}
